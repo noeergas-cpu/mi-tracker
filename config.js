@@ -5,5 +5,5 @@
    ============================================================ */
 window.LIGA_CONFIG = {
   url: 'https://qfdutnxtmmovrovmhgbu.supabase.co',
-  key: 'PEGA_AQUI_TU_PUBLISHABLE_KEY'
+  key: 'sb_publishable_3NcGcJGiETGNvZf3Tmj-Dg_sfyY0iZq'
 };
